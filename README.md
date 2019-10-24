@@ -13,7 +13,7 @@
 - print (a, 'Adalah Bilangan terbesar')
 - elif b>a and b>c:
 - print (b, 'Adalah Bilangan terbesar')
-- else:
+- elif c>a and c>b:
 - print (c, 'Adalah Bilangan terbesar') 
 - Keteranganya Jika a lebih dari b dan a lebih dari c, maka bilangan a, kalau bilangan a bukan bilangan terbesar maka lanjut ke bilangan b, jika b lebih dari a dan b lebih dari c maka bilangan b Adalah Bilangan terbesar, kalau a dan b bukan bilangan terbesar maka bilangan c Adalah bilangan yang terbesar.
 
